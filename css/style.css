@@ -1,6 +1,7 @@
 html {
   font-size: 10px;
-  background: url(/img/background.jpg) bottom center;
+  background: url(/img/background.jpg) bottom center; 
+  /* removing quote from url */
   background-size: cover;
 }
 
